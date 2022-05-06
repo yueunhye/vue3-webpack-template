@@ -18,3 +18,10 @@
     }
   }
 </script>
+
+<style>
+  h1 {
+    font-size: 30px;
+    color:aquamarine;
+  }
+</style>
